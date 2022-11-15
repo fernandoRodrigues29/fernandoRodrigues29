@@ -1,4 +1,9 @@
-### Hi there 👋
+## Sou o Fernando
+### Especialista em Sistemas Web
+* 🔭 trabalho com FullStack
+* 🌱 Estudando nodejs ,graficos em 3D ultilizando threejs
+* 💬 Como posso te ajudar?
+
 
 <!--
 **fernandoRodrigues29/fernandoRodrigues29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
